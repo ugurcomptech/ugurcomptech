@@ -1,4 +1,5 @@
 <h1 align="center">Hi I am Uğur</h1>
+
 - 🐍 Python **Python effectively in cybersecurity. I am proficient in the Python language**
 
 - 🔑 Active Directory **I am well-versed in user management, group policies and access control using Active Directory infrastructure. I have experience in creating user accounts, authorizing and controlling access to resources.**
