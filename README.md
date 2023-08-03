@@ -16,11 +16,11 @@
 
 ## Languages and Tools
 
-<table border=0>
+<table border="0">
   <tr>
     <td valign="top" width="33%">
       <div align="center">
-        ### Front end
+        ## Front end
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
@@ -30,7 +30,7 @@
       </div>
     </td>
     <td valign="top" width="33%">
-      ### Backend
+      ## Backend
       <div align="center">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="50" height="50"/>
@@ -38,7 +38,7 @@
       </div>
     </td>
     <td valign="top" width="33%">
-      ### Hacking
+      ## Hacking
       <div align="center">
         <img src="https://r.resimlink.com/hNb6U3tGmVLE.png" title="Metasploit" alt="Metasploit" width="50" height="50"/>
         <img src="https://r.resimlink.com/h36Vo9X4H.png" title="Wireshark" alt="Wireshark" width="50" height="50"/>
@@ -47,16 +47,20 @@
         <img src="https://r.resimlink.com/A7Z2jwkGPX-0.png" title="Nmap" alt="Nmap" width="50" height="50"/>
       </div>
     </td>
+    <td valign="top" width="33%">
+        ## Operating System
+      <div align="center">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>
+          <img src="https://r.resimlink.com/ZvPJGW2R.png" title="Windows Server" alt="Windows Server" width="50" height="50"/>
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      ## Version Control:
+      <div align="center">
+          <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
+      </div>
+    </td>
   </tr>
 </table>
-## Operating System:
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>
-  <img src="https://r.resimlink.com/ZvPJGW2R.png" title="Windows Server" alt="Windows Server" width="50" height="50"/>
-</div>
-## Version Control:
-<div align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
-</div>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ugurcomptech&show_icons=true&locale=en&layout=compact" alt="ugurcomptech" /></p>
