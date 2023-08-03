@@ -29,6 +29,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
   <img src="https://r.resimlink.com/hNb6U3tGmVLE.png" title="Metasploit" alt="Metasploit" width="40" height="40"/>
+  <img src="https://r.resimlink.com/h36Vo9X4H.png" title="Wireshark" alt="Wireshark" width="40" height="40"/>
+  <img src="https://r.resimlink.com/Co9MS4ZBT.png" title="Bettercap" alt="Bettercap" width="40" height="40"/>
+  <img src="https://r.resimlink.com/ZyQJ5jU3.png" title="Sqlmap" alt="Sqlmap"  width="40" height="40"/>
+
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ugurcomptech&show_icons=true&locale=en&layout=compact" alt="ugurcomptech" /></p>
