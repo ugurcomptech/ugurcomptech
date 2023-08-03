@@ -15,10 +15,8 @@
 
 
 ## Languages and Tools
-<h3 align="left">:</h3>
-## My Skill Set
 
-<table>
+<table border=0>
   <tr>
     <td valign="top" width="33%">
       <div align="center">
