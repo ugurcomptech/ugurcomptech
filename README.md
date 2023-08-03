@@ -32,7 +32,7 @@
   <img src="https://r.resimlink.com/h36Vo9X4H.png" title="Wireshark" alt="Wireshark" width="50" height="50"/>
   <img src="https://r.resimlink.com/Co9MS4ZBT.png" title="Bettercap" alt="Bettercap" width="50" height="50"/>
   <img src="https://r.resimlink.com/ZyQJ5jU3.png" title="Sqlmap" alt="Sqlmap"  width="50" height="50"/>
-
+ <img src="https://r.resimlink.com/A7Z2jwkGPX-0.png" title="Nmap" alt="Nmap" width="50" height="50"/>
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ugurcomptech&show_icons=true&locale=en&layout=compact" alt="ugurcomptech" /></p>
