@@ -28,9 +28,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-  <img src="https://example.com/wireshark.svg" alt="Wireshark" width="40" height="40"/>
-  <img src="https://example.com/sqlmap.svg" alt="SQLmap" width="40" height="40"/>
-  <img src="https://example.com/bettercap.svg" alt="Bettercap" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wireshark/wireshark-original.svg" alt="Wireshark" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlmap/sqlmap-original.svg" alt="SQLmap" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bettercap/bettercap-original.svg" alt="Bettercap" width="40" height="40"/>
 </p>
 
 
