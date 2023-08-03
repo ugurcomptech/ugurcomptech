@@ -14,21 +14,11 @@
 - 💡 PowerShel **I am developing automation scenarios using the PowerShell scripting language. I have experience in creating scripts, automating administrative tasks, and performing other system administration related tasks with PowerShell.**
 
 
-<style>
-  table {
-    border-collapse: collapse;
-  }
-
-  table td,
-  table th {
-    border: none;
-  }
-</style>
 
 
 ## Languages and Tools
 
-<table border="0">
+<table style="border: none;">
   <tr>
     <td valign="top" width="33%">
       <div align="center">
