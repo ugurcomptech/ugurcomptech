@@ -33,11 +33,9 @@
 <img src="https://r.resimlink.com/ZyQJ5jU3.png" title="Sqlmap" alt="Sqlmap"  width="50" height="50"/>
 <img src="https://r.resimlink.com/A7Z2jwkGPX-0.png" title="Nmap" alt="Nmap" width="50" height="50"/>
 
-## Operating System
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>
 <img src="https://r.resimlink.com/ZvPJGW2R.png" title="Windows Server" alt="Windows Server" width="50" height="50"/>
 
-## Version Control
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
 
 
