@@ -28,9 +28,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wireshark/wireshark-original.svg" alt="Wireshark" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlmap/sqlmap-original.svg" alt="SQLmap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bettercap/bettercap-original.svg" alt="Bettercap" width="40" height="40"/>
+  <img src="![Wireshark_icon svg](https://github.com/ugurcomptech/ugurcomptech/assets/133202238/8f0788ee-b11d-4085-95cf-4374bd93f932)" alt="Wireshark" width="40" height="40"/>
+  <img src="![Sqlmap_logo](https://github.com/ugurcomptech/ugurcomptech/assets/133202238/0c08a3c5-6c15-4f74-884d-98e50aa9fffb)" alt="SQLmap" width="40" height="40"/>
+  <img src="![logo](https://github.com/ugurcomptech/ugurcomptech/assets/133202238/77acd0b2-f99f-437b-b244-dc9fa191d4a0)" alt="Bettercap" width="40" height="40"/>
+  <img src="![metasploit](https://github.com/ugurcomptech/ugurcomptech/assets/133202238/28a6b5f6-d1c0-4868-879b-372b648f0cbd)" alt="Metasploit" width="40" height="40"/>
 </p>
 
 
