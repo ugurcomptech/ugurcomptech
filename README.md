@@ -7,13 +7,11 @@
 
 - 🔑 Active Directory **I am well-versed in user management, group policies and access control using Active Directory infrastructure. I have experience in creating user accounts, authorizing and controlling access to resources**
 
-- 🔒 Virtualization Technologies **I am familiar with working with virtualization technologies such as VMware, VirtualBox and Docker. I have experience in creating and managing virtual machines and setting up virtual networks.**
+- 🔒 Virtualization Technologies **I am familiar with working with virtualization technologies such as VMware, Microsoft HYPER-V , VirtualBox and Docker. I have experience in creating and managing virtual machines and setting up virtual networks.**
 
 - 🔧 GPO (Group Policy Object) **I have experience in creating and managing group policies. I actively use GPOs to manage the behavior of users and computers, enforce and configure policies.**
 
 - 💡 PowerShel **I am developing automation scenarios using the PowerShell scripting language. I have experience in creating scripts, automating administrative tasks, and performing other system administration related tasks with PowerShell.**
-
-
 
 
 <h3 align="left">Languages and Tools:</h3>
