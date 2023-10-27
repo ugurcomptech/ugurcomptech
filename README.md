@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba Ben Uğur</h1>
-<p align="center" style="font-size: 15px;">Junior Network Specialist & System Administration</p>
+<p align="center" style="font-size: 70px;">Junior Network Specialist & System Administration</p>
 
 
 
