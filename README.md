@@ -1,18 +1,18 @@
 <h1 align="center">Merhaba Ben Uğur</h1>
 
 
-**Cybersecurity & System Administration | Python Enthusiast**
+**Junior Network Specialist & System Administration | Python Enthusiast**
 
 ![Python](https://img.shields.io/badge/Python-Proficient-yellow?style=flat&logo=python)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-Proficient-blue?style=flat&logo=windows)
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-Expert-blue?style=flat&logo=windows)
 ![Virtualization](https://img.shields.io/badge/Virtualization-Experienced-blue?style=flat&logo=vmware)
 ![PowerShell](https://img.shields.io/badge/PowerShell-Proficient-blue?style=flat&logo=powershell)
+![Network](https://img.shields.io/badge/Network-Expert-blue?style=flat&logo=cisco)
 
 
 
-<h2 align="center">Hakkımda</h2>
-<div align="center">
+## Hakkımda
 
 🐍 **Python:** Siber güvenlikte Python kullanımında uzmanım. Python dilini etkili bir şekilde kullanarak otomasyon ve siber güvenlik görevlerini gerçekleştiriyorum.
 
@@ -22,13 +22,15 @@
 
 🔒 **Sanallaştırma Teknolojileri:** VMware, Microsoft Hyper-V, VirtualBox ve Docker gibi sanallaştırma teknolojileriyle çalışma konusunda deneyimim bulunuyor. Sanal makineler oluşturma, yönetme ve sanal ağlar kurma konularında bilgi sahibiyim.
 
+🌐 **Web Geliştirme:** Web geliştirme konusunda deneyime sahibim. Front-end ve back-end geliştirme, HTML, CSS, JavaScript ve web uygulamaları geliştirme konularında bilgi ve tecrübem bulunuyor.
+
+
 🔧 **Grup Politika Nesneleri (GPO):** Grup politikaları oluşturma ve yönetme konusunda deneyime sahibim. Kullanıcı ve bilgisayar davranışlarını yönetmek, politikaları uygulamak ve yapılandırmak için aktif olarak GPO'ları kullanıyorum.
 
 💡 **PowerShell:** PowerShell betik dili kullanarak otomasyon senaryoları geliştiriyorum. Betik oluşturma, yönetici görevlerini otomatikleştirme ve diğer sistem yönetimi ile ilgili görevleri PowerShell ile gerçekleştirme konularında deneyimim bulunuyor.
 
 🌐 **Web Sunucusu, DNS Sunucusu, DHCP Sunucusu ve Dosya Sunucusu Kurulumları:** Web sunucusu, DNS sunucusu, DHCP sunucusu ve File server gibi önemli sunucuların kurulumları ve yapılandırmaları konusunda bilgi ve tecrübem bulunuyor.
 
-</div>
 
 
 
