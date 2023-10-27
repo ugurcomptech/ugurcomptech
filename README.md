@@ -1,17 +1,34 @@
-<h1 align="center">Hi 👋, I'm Uğur</h1>
-<h3 align="center">A passionate IT software developer in Turkey</h3>
+<h1 align="center">Merhaba Ben Uğur</h1>
 
-- 🐍 Python **Python effectively in cybersecurity. I am proficient in the Python language**
 
-- 🖥️ Windows Server **I perform tasks such as server management, database management and network configuration using the Windows Server operating system.**
+**Cybersecurity & System Administration | Python Enthusiast**
 
-- 🔑 Active Directory **I am well-versed in user management, group policies and access control using Active Directory infrastructure. I have experience in creating user accounts, authorizing and controlling access to resources**
+![Python](https://img.shields.io/badge/Python-Proficient-yellow?style=flat&logo=python)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-Proficient-blue?style=flat&logo=windows)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-Expert-blue?style=flat&logo=windows)
+![Virtualization](https://img.shields.io/badge/Virtualization-Experienced-blue?style=flat&logo=vmware)
+![PowerShell](https://img.shields.io/badge/PowerShell-Proficient-blue?style=flat&logo=powershell)
 
-- 🔒 Virtualization Technologies **I am familiar with working with virtualization technologies such as VMware, Microsoft HYPER-V , VirtualBox and Docker. I have experience in creating and managing virtual machines and setting up virtual networks.**
+## Hakkımda
 
-- 🔧 GPO (Group Policy Object) **I have experience in creating and managing group policies. I actively use GPOs to manage the behavior of users and computers, enforce and configure policies.**
 
-- 💡 PowerShell **I am developing automation scenarios using the PowerShell scripting language. I have experience in creating scripts, automating administrative tasks, and performing other system administration related tasks with PowerShell.**
+- 🐍 **Python:** Siber güvenlikte Python kullanımında uzmanım. Python dilini etkili bir şekilde kullanarak otomasyon ve siber güvenlik görevlerini gerçekleştiriyorum.
+
+- 🖥️ **Windows Server:** Windows Server işletim sistemi üzerinde sunucu yönetimi, veritabanı yönetimi ve ağ yapılandırma gibi görevleri başarıyla yerine getiriyorum.
+
+- 🔑 **Active Directory:** Active Directory altyapısını kullanarak kullanıcı yönetimi, grup politikaları ve erişim kontrolü konularında deneyime sahibim. Kullanıcı hesapları oluşturma, kaynaklara erişimi yetkilendirme ve denetleme konularında bilgi sahibiyim.
+
+- 🔒 **Sanallaştırma Teknolojileri:** VMware, Microsoft Hyper-V, VirtualBox ve Docker gibi sanallaştırma teknolojileriyle çalışma konusunda deneyimim bulunuyor. Sanal makineler oluşturma, yönetme ve sanal ağlar kurma konularında bilgi sahibiyim.
+
+- 🔧 **Grup Politika Nesneleri (GPO):** Grup politikaları oluşturma ve yönetme konusunda deneyime sahibim. Kullanıcı ve bilgisayar davranışlarını yönetmek, politikaları uygulamak ve yapılandırmak için aktif olarak GPO'ları kullanıyorum.
+
+- 💡 **PowerShell:** PowerShell betik dili kullanarak otomasyon senaryoları geliştiriyorum. Betik oluşturma, yönetici görevlerini otomatikleştirme ve diğer sistem yönetimi ile ilgili görevleri PowerShell ile gerçekleştirme konularında deneyimim bulunuyor.
+
+- 🌐 **Web Sunucusu, DNS Sunucusu, DHCP Sunucusu ve Dosya Sunucusu Kurulumları:** Web sunucusu, DNS sunucusu, DHCP sunucusu ve File server gibi önemli sunucuların kurulumları ve yapılandırmaları konusunda bilgi ve tecrübem bulunuyorç
+
+
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -30,4 +47,5 @@
 </p>  
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ugurcomptech&show_icons=true&locale=en&layout=compact" alt="ugurcomptech" /></p>
+
+**Projelerimi inceleyerek daha fazla bilgi edinebilir ve sorularınızı sormaktan çekinmeyin. Teknoloji dünyasına olan ilgimle size yardımcı olmaktan mutluluk duyarım.**
