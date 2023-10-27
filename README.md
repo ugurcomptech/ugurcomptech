@@ -27,11 +27,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="50" height="50"/>
-  <img src="https://r.resimlink.com/hNb6U3tGmVLE.png" title="Metasploit" alt="Metasploit" width="50" height="50"/>
-  <img src="https://r.resimlink.com/h36Vo9X4H.png" title="Wireshark" alt="Wireshark" width="50" height="50"/>
-  <img src="https://r.resimlink.com/Co9MS4ZBT.png" title="Bettercap" alt="Bettercap" width="50" height="50"/>
-  <img src="https://r.resimlink.com/ZyQJ5jU3.png" title="Sqlmap" alt="Sqlmap"  width="50" height="50"/>
- <img src="https://r.resimlink.com/A7Z2jwkGPX-0.png" title="Nmap" alt="Nmap" width="50" height="50"/>
 </p>  
 
 
