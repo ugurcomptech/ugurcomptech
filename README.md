@@ -9,23 +9,26 @@
 ![Virtualization](https://img.shields.io/badge/Virtualization-Experienced-blue?style=flat&logo=vmware)
 ![PowerShell](https://img.shields.io/badge/PowerShell-Proficient-blue?style=flat&logo=powershell)
 
-## Hakkımda
 
 
-- 🐍 **Python:** Siber güvenlikte Python kullanımında uzmanım. Python dilini etkili bir şekilde kullanarak otomasyon ve siber güvenlik görevlerini gerçekleştiriyorum.
+<h2 align="center">Hakkımda</h2>
+<div align="center">
 
-- 🖥️ **Windows Server:** Windows Server işletim sistemi üzerinde sunucu yönetimi, veritabanı yönetimi ve ağ yapılandırma gibi görevleri başarıyla yerine getiriyorum.
+🐍 **Python:** Siber güvenlikte Python kullanımında uzmanım. Python dilini etkili bir şekilde kullanarak otomasyon ve siber güvenlik görevlerini gerçekleştiriyorum.
 
-- 🔑 **Active Directory:** Active Directory altyapısını kullanarak kullanıcı yönetimi, grup politikaları ve erişim kontrolü konularında deneyime sahibim. Kullanıcı hesapları oluşturma, kaynaklara erişimi yetkilendirme ve denetleme konularında bilgi sahibiyim.
+🖥️ **Windows Server:** Windows Server işletim sistemi üzerinde sunucu yönetimi, veritabanı yönetimi ve ağ yapılandırma gibi görevleri başarıyla yerine getiriyorum.
 
-- 🔒 **Sanallaştırma Teknolojileri:** VMware, Microsoft Hyper-V, VirtualBox ve Docker gibi sanallaştırma teknolojileriyle çalışma konusunda deneyimim bulunuyor. Sanal makineler oluşturma, yönetme ve sanal ağlar kurma konularında bilgi sahibiyim.
+🔑 **Active Directory:** Active Directory altyapısını kullanarak kullanıcı yönetimi, grup politikaları ve erişim kontrolü konularında deneyime sahibim. Kullanıcı hesapları oluşturma, kaynaklara erişimi yetkilendirme ve denetleme konularında bilgi sahibiyim.
 
-- 🔧 **Grup Politika Nesneleri (GPO):** Grup politikaları oluşturma ve yönetme konusunda deneyime sahibim. Kullanıcı ve bilgisayar davranışlarını yönetmek, politikaları uygulamak ve yapılandırmak için aktif olarak GPO'ları kullanıyorum.
+🔒 **Sanallaştırma Teknolojileri:** VMware, Microsoft Hyper-V, VirtualBox ve Docker gibi sanallaştırma teknolojileriyle çalışma konusunda deneyimim bulunuyor. Sanal makineler oluşturma, yönetme ve sanal ağlar kurma konularında bilgi sahibiyim.
 
-- 💡 **PowerShell:** PowerShell betik dili kullanarak otomasyon senaryoları geliştiriyorum. Betik oluşturma, yönetici görevlerini otomatikleştirme ve diğer sistem yönetimi ile ilgili görevleri PowerShell ile gerçekleştirme konularında deneyimim bulunuyor.
+🔧 **Grup Politika Nesneleri (GPO):** Grup politikaları oluşturma ve yönetme konusunda deneyime sahibim. Kullanıcı ve bilgisayar davranışlarını yönetmek, politikaları uygulamak ve yapılandırmak için aktif olarak GPO'ları kullanıyorum.
 
-- 🌐 **Web Sunucusu, DNS Sunucusu, DHCP Sunucusu ve Dosya Sunucusu Kurulumları:** Web sunucusu, DNS sunucusu, DHCP sunucusu ve File server gibi önemli sunucuların kurulumları ve yapılandırmaları konusunda bilgi ve tecrübem bulunuyorç
+💡 **PowerShell:** PowerShell betik dili kullanarak otomasyon senaryoları geliştiriyorum. Betik oluşturma, yönetici görevlerini otomatikleştirme ve diğer sistem yönetimi ile ilgili görevleri PowerShell ile gerçekleştirme konularında deneyimim bulunuyor.
 
+🌐 **Web Sunucusu, DNS Sunucusu, DHCP Sunucusu ve Dosya Sunucusu Kurulumları:** Web sunucusu, DNS sunucusu, DHCP sunucusu ve File server gibi önemli sunucuların kurulumları ve yapılandırmaları konusunda bilgi ve tecrübem bulunuyor.
+
+</div>
 
 
 
