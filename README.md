@@ -30,7 +30,7 @@
 
 💡 **PowerShell:** PowerShell betik dili kullanarak otomasyon senaryoları geliştiriyorum. Betik oluşturma, yönetici görevlerini otomatikleştirme ve diğer sistem yönetimi ile ilgili görevleri PowerShell ile gerçekleştirme konularında deneyimim bulunuyor.
 
-🌐 **Web Sunucusu, DNS Sunucusu, DHCP Sunucusu ve Dosya Sunucusu Kurulumları:** Web sunucusu, DNS sunucusu, DHCP sunucusu ve File server gibi önemli sunucuların kurulumları ve yapılandırmaları konusunda bilgi ve tecrübem bulunuyor.
+🌐 **Server Kurulumu:** Web Sunucusu, DNS Sunucusu, DHCP Sunucusu ve Dosya Sunucusu Kurulumları:** Web sunucusu, DNS sunucusu, DHCP sunucusu ve File server gibi önemli sunucuların kurulumları ve yapılandırmaları konusunda bilgi ve tecrübem bulunuyor.
 
 
 
