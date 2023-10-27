@@ -1,7 +1,6 @@
 <h1 align="center">Merhaba Ben Uğur</h1>
+<h2 align="center" style="color:blue;">Junior Network Specialist & System Administration</h2>
 
-
-**Junior Network Specialist & System Administration**
 
 ![Python](https://img.shields.io/badge/Python-Proficient-yellow?style=flat&logo=python)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-Proficient-blue?style=flat&logo=windows)
