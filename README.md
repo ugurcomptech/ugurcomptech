@@ -1,6 +1,5 @@
 <h1 align="center">Merhaba Ben Uğur</h1>
-  
-## Junior Network Specialist & System Administration
+<b align=center>Junior Network Specialist & System Administration</b> 
 
 
 
