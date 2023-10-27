@@ -23,7 +23,7 @@
 
 🔒 **Sanallaştırma Teknolojileri:** VMware, Microsoft Hyper-V, VirtualBox ve Docker gibi sanallaştırma teknolojileriyle çalışma konusunda deneyimim bulunuyor. Sanal makineler oluşturma, yönetme ve sanal ağlar kurma konularında bilgi sahibiyim.
 
-🌐 **Web Geliştirme:** Web geliştirme konusunda deneyime sahibim. Front-end ve back-end geliştirme, HTML, CSS, JavaScript, Python(Django & Flask), Vue, Boostrap ve web uygulamaları geliştirme konularında bilgi ve tecrübem bulunuyor.
+🌐 **Web Geliştirme:** Web geliştirme konusunda deneyime sahibim. Front-end ve back-end geliştirme, HTML, CSS, JavaScript, Python(Django & Flask), Vue, Boostrap, React ve web uygulamaları geliştirme konularında bilgi ve tecrübem bulunuyor.
 
 🔧 **Grup Politika Nesneleri (GPO):** Grup politikaları oluşturma ve yönetme konusunda deneyime sahibim. Kullanıcı ve bilgisayar davranışlarını yönetmek, politikaları uygulamak ve yapılandırmak için aktif olarak GPO'ları kullanıyorum.
 
