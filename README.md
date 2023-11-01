@@ -25,7 +25,7 @@
 
 🌐 **Web Geliştirme:** Web geliştirme konusunda deneyime sahibim. Front-end ve back-end geliştirme, HTML, CSS, JavaScript, Python(Django & Flask), Vue, Boostrap, React ve web uygulamaları geliştirme konularında bilgi ve tecrübem bulunuyor.
 
-📶 Cisco Network Simülasyon: Cisco network cihazları ve yazılımları üzerinde simülasyon ve konfigürasyon becerilerine sahibim. Cisco router ve switchlerinin yapılandırılması, ağlar arası iletişimin sağlanması ve ağ güvenliği uygulamaları konularında deneyimim bulunmaktadır.
+📶 **Cisco Network Simülasyon:** Cisco network cihazları ve yazılımları üzerinde simülasyon ve konfigürasyon becerilerine sahibim. Cisco router ve switchlerinin yapılandırılması, ağlar arası iletişimin sağlanması ve ağ güvenliği uygulamaları konularında deneyimim bulunmaktadır.
 
 💡 **PowerShell:** PowerShell betik dili kullanarak otomasyon senaryoları geliştiriyorum. Betik oluşturma, yönetici görevlerini otomatikleştirme ve diğer sistem yönetimi ile ilgili görevleri PowerShell ile gerçekleştirme konularında deneyimim bulunuyor.
 
