@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba Ben Uğur</h1>
-<p align="center">Junior Network Specialist & System Administration</p> 
+<p align="center">Junior Network Specialist & Junior System Administration</p> 
 
 <br>
 
@@ -15,15 +15,12 @@
 
 ## Hakkımda
 
-🐍 **Python:** Siber güvenlikte Python kullanımında iyim. Python dilini etkili bir şekilde kullanarak otomasyon ve siber güvenlik görevlerini gerçekleştiriyorum.
 
 🖥️ **Windows Server:** Windows Server işletim sistemi üzerinde sunucu yönetimi, veritabanı yönetimi ve ağ yapılandırma gibi görevleri başarıyla yerine getiriyorum.
 
 🔑 **Active Directory:** Active Directory altyapısını kullanarak kullanıcı yönetimi, grup politikaları ve erişim kontrolü konularında deneyime sahibim. Kullanıcı hesapları oluşturma, kaynaklara erişimi yetkilendirme ve denetleme konularında bilgi sahibiyim.
 
 🔒 **Sanallaştırma Teknolojileri:** VMware, Microsoft Hyper-V, VirtualBox ve Docker gibi sanallaştırma teknolojileriyle çalışma konusunda deneyimim bulunuyor. Sanal makineler oluşturma, yönetme ve sanal ağlar kurma konularında bilgi sahibiyim.
-
-🌐 **Web Geliştirme:** Web geliştirme konusunda deneyime sahibim. Front-end ve back-end geliştirme, HTML, CSS, JavaScript, Python(Django & Flask), Vue, Boostrap, React ve web uygulamaları geliştirme konularında bilgi ve tecrübem bulunuyor.
 
 📶 **Cisco Network Simülasyon:** Cisco network cihazları ve yazılımları üzerinde simülasyon ve konfigürasyon becerilerine sahibim. Cisco router ve switchlerinin yapılandırılması, ağlar arası iletişimin sağlanması ve ağ güvenliği uygulamaları konularında deneyimim bulunmaktadır.
 
