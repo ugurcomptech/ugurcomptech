@@ -16,7 +16,9 @@
 ## Hakkımda
 
 
-🖥️ **Windows Server:** Windows Server işletim sistemi üzerinde sunucu yönetimi, veritabanı yönetimi ve ağ yapılandırma gibi görevleri başarıyla yerine getiriyorum.
+🖥️ **Windows Server:** Windows Server işletim sistemi üzerinde sunucu yönetimi, Web, DNS , DHCP  ve File Server gibi bazı sunucuların kurulumları ve yapılandırmaları konusunda bilgi ve tecrübem bulunuyor.
+
+🐧 **Linux Server:** Linux dağıtımları üzerinde sunucu yönetimi, Web, DHCP, DNS, SSH gibi bazı sunucuların kurulumları ve yapılandırmaları konusunda bilgi ve tecrübem bulunuyor.
 
 🔑 **Active Directory:** Active Directory altyapısını kullanarak kullanıcı yönetimi, grup politikaları ve erişim kontrolü konularında deneyime sahibim. Kullanıcı hesapları oluşturma, kaynaklara erişimi yetkilendirme ve denetleme konularında bilgi sahibiyim.
 
@@ -26,7 +28,6 @@
 
 💡 **PowerShell:** PowerShell betik dili kullanarak otomasyon senaryoları geliştiriyorum. Betik oluşturma, yönetici görevlerini otomatikleştirme ve diğer sistem yönetimi ile ilgili görevleri PowerShell ile gerçekleştirme konularında deneyimim bulunuyor.
 
-💻  **Server Kurulumu:**  Web Server, DNS Server, DHCP Server ve File Server gibi önemli sunucuların kurulumları ve yapılandırmaları konusunda bilgi ve tecrübem bulunuyor.
 
 
 
