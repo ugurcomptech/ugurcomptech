@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba Ben Uğur</h1>
-<p align="center">Junior Network Specialist & Junior System Administration</p> 
+<p align="center">Junior System Administrator</p> 
 
 <br>
 
@@ -9,7 +9,6 @@
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-Expert-blue?style=flat&logo=windows)
 ![Virtualization](https://img.shields.io/badge/Virtualization-Experienced-blue?style=flat&logo=vmware)
 ![PowerShell](https://img.shields.io/badge/PowerShell-Proficient-blue?style=flat&logo=powershell)
-![Network](https://img.shields.io/badge/Network-Expert-blue?style=flat&logo=cisco)
 
 
 
@@ -20,11 +19,7 @@
 
 🐧 **Linux Server:** Linux dağıtımları üzerinde sunucu yönetimi, Web, DHCP, DNS, SSH gibi bazı sunucuların kurulumları ve yapılandırmaları konusunda bilgi ve tecrübem bulunuyor.
 
-🔑 **Active Directory:** Active Directory altyapısını kullanarak kullanıcı yönetimi, grup politikaları ve erişim kontrolü konularında deneyime sahibim. Kullanıcı hesapları oluşturma, kaynaklara erişimi yetkilendirme ve denetleme konularında bilgi sahibiyim.
-
 🔒 **Sanallaştırma Teknolojileri:** VMware, Microsoft Hyper-V, VirtualBox ve Docker gibi sanallaştırma teknolojileriyle çalışma konusunda deneyimim bulunuyor. Sanal makineler oluşturma, yönetme ve sanal ağlar kurma konularında bilgi sahibiyim.
-
-📶 **Cisco Network Simülasyon:** Cisco network cihazları ve yazılımları üzerinde simülasyon ve konfigürasyon becerilerine sahibim. Cisco router ve switchlerinin yapılandırılması, ağlar arası iletişimin sağlanması ve ağ güvenliği uygulamaları konularında deneyimim bulunmaktadır.
 
 💡 **PowerShell:** PowerShell betik dili kullanarak otomasyon senaryoları geliştiriyorum. Betik oluşturma, yönetici görevlerini otomatikleştirme ve diğer sistem yönetimi ile ilgili görevleri PowerShell ile gerçekleştirme konularında deneyimim bulunuyor.
 
