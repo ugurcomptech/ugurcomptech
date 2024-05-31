@@ -6,6 +6,7 @@
 
 ![Python](https://img.shields.io/badge/Python-Proficient-yellow?style=flat&logo=python)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-Proficient-blue?style=flat&logo=windows)
+![Linux Server](https://img.shields.io/badge/Linux%20Server-Proficient-blue?style=flat&logo=linux)
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-Expert-blue?style=flat&logo=windows)
 ![Virtualization](https://img.shields.io/badge/Virtualization-Experienced-blue?style=flat&logo=vmware)
 ![PowerShell](https://img.shields.io/badge/PowerShell-Proficient-blue?style=flat&logo=powershell)
