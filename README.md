@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba Ben Uğur</h1>
-<p align="center">Junior System Administrator</p> 
+<p align="center">System Administrator</p> 
 
 <br>
 
