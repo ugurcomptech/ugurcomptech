@@ -15,11 +15,13 @@
 
 ## Hakkımda
 
-Windows Server işletim sisteminde sunucu yönetimi, Web, DNS, DHCP ve Dosya Sunucusu gibi çeşitli sunucuların kurulum ve yapılandırması konusunda bilgi ve deneyim sahibiyim. Aynı şekilde, Linux dağıtımlarında sunucu yönetimi, Web, DHCP, DNS ve SSH gibi sunucuların kurulum ve yapılandırmasını da yapabiliyorum. Ayrıca VMware, Microsoft Hyper-V, VirtualBox ve Docker gibi sanallaştırma teknolojileriyle sanal makineler oluşturma, yönetme ve sanal ağlar kurma konularında deneyimliyim.
+🖥️ **Windows Server:** Windows Server işletim sistemi üzerinde sunucu yönetimi, Web, DNS , DHCP  ve File Server gibi bazı sunucuların kurulumları ve yapılandırmaları konusunda bilgi ve tecrübem bulunuyor.
 
+🐧 **Linux Server:** Linux dağıtımları üzerinde sunucu yönetimi, Web, DHCP, DNS, SSH gibi bazı sunucuların kurulumları ve yapılandırmaları konusunda bilgi ve tecrübem bulunuyor.
 
+🔒 **Sanallaştırma Teknolojileri:** VMware, Microsoft Hyper-V, VirtualBox ve Docker gibi sanallaştırma teknolojileriyle çalışma konusunda deneyimim bulunuyor. Sanal makineler oluşturma, yönetme ve sanal ağlar kurma konularında bilgi sahibiyim.
 
-
+💡 **PowerShell:** PowerShell betik dili kullanarak otomasyon senaryoları geliştiriyorum. Betik oluşturma, yönetici görevlerini otomatikleştirme ve diğer sistem yönetimi ile ilgili görevleri PowerShell ile gerçekleştirme konularında deneyimim bulunuyor.
 
 
 
@@ -30,7 +32,6 @@ Windows Server işletim sisteminde sunucu yönetimi, Web, DNS, DHCP ve Dosya Sun
   <img src="https://img.icons8.com/color/48/000000/windows-10.png" alt="windows" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="50" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="50" height="50"/>
 </p>
 
