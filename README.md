@@ -1,5 +1,5 @@
 <h1 align="center">Uğur Can </h1>
-<p align="center"><strong>Jr. Sistem ve Altyapı Yöneticisi</strong></p>
+<p align="center"><strong>Jr.Sistem ve Altyapı Yöneticisi</strong></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Rol-Sistem_Y%C3%B6neticisi-0F172A?style=flat-square&logo=linux&logoColor=white" alt="Rol">
@@ -27,15 +27,13 @@
 
 ---
 
-## 🚀 Öne Çıkan Projeler
+## Öne Çıkan Projeler
 
-| Proje | Açıklama |
-| :--- | :--- |
-| **[HA-Web-Architecture](https://github.com/ugurcomptech/HA-Web-Architecture)** | Yüksek erişilebilirlik ve yük dengeleme odaklı modern web sunucu mimarisi yapılandırmaları. |
-| **[Mail-Cluster-Architecture](https://github.com/ugurcomptech/Mail-Cluster-Architecture)** | Üretim ortamları için ölçeklenebilir, güvenli ve yedekli e-posta sunucu kümeleme altyapısı. |
-| **[CockroachMultiZone](https://github.com/ugurcomptech/CockroachMultiZone)** | Çoklu bölge (multi-zone) dağıtık veritabanı kurguları ve dayanıklılık senaryoları. |
-| **[Haproxy-Abuseipdb-Blocklist](https://github.com/ugurcomptech/Haproxy-Abuseipdb-Blocklist)** | HAProxy üzerinde AbuseIPDB entegrasyonu ile zararlı IP adreslerinin otomatik engellenmesi. |
-| **[Haproxy-Ip2location-Turkey-Filter](https://github.com/ugurcomptech/Haproxy-Ip2location-Turkey-Filter)** | IP2Location verileri kullanılarak HAProxy katmanında coğrafi tabanlı trafik filtreleme (Türkiye odaklı). |
+- **[HA-Web-Architecture](https://github.com/ugurcomptech/HA-Web-Architecture):** Yüksek erişilebilirlik ve yük dengeleme odaklı modern web sunucu mimarisi yapılandırmaları.
+- **[Mail-Cluster-Architecture](https://github.com/ugurcomptech/Mail-Cluster-Architecture):** Üretim ortamları için ölçeklenebilir, güvenli ve yedekli e-posta sunucu kümeleme altyapısı.
+- **[CockroachMultiZone](https://github.com/ugurcomptech/CockroachMultiZone):** Çoklu bölge (multi-zone) dağıtık veritabanı kurguları ve dayanıklılık senaryoları.
+- **[Haproxy-Abuseipdb-Blocklist](https://github.com/ugurcomptech/Haproxy-Abuseipdb-Blocklist):** HAProxy üzerinde AbuseIPDB entegrasyonu ile zararlı IP adreslerinin otomatik engellenmesi.
+- **[Haproxy-Ip2location-Turkey-Filter](https://github.com/ugurcomptech/Haproxy-Ip2location-Turkey-Filter):** IP2Location verileri kullanılarak HAProxy katmanında coğrafi tabanlı trafik filtreleme (Türkiye odaklı).
 
 ---
 
@@ -54,18 +52,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=ugurcomptech&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub İstatistikleri" width="48%" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ugurcomptech&layout=compact&theme=tokyonight&hide_border=true" alt="En Çok Kullanılan Diller" width="48%" />
   </p>
-</div>
-
----
-
-## 🐍 Aktivite Grafiği
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ugurcomptech/ugurcomptech/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ugurcomptech/ugurcomptech/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/ugurcomptech/ugurcomptech/output/github-contribution-grid-snake.svg">
-  </picture>
 </div>
 
 ---
