@@ -1,8 +1,7 @@
-<h1 align="center">Merhaba, Ben Uğur</h1>
+<h1 align="center">Merhaba, Ben Uğur Can Şahin 👋</h1>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ugurcomptech&style=flat-square&color=blueviolet" alt="Profil Görüntülenme"/>
-  <img src="https://img.shields.io/badge/Sistem-Y%C3%B6neticisi-0F172A?style=flat-square&logo=linux&logoColor=white" alt="Rol">
-  <img src="https://img.shields.io/badge/Odak-Y%C3%BCksek%20Eri%C5%9filebilirlik-0EA5E9?style=flat-square&logo=databricks&logoColor=white" alt="Odak">
+  <img src="https://img.shields.io/badge/Rol-Sistem_Y%C3%B6neticisi-0F172A?style=flat-square&logo=linux&logoColor=white" alt="Rol">
+  <img src="https://img.shields.io/badge/Odak-Y%C3%BCksek_Eri%C5%9filebilirlik-0EA5E9?style=flat-square&logo=databricks&logoColor=white" alt="Odak">
 </p>
 
 <br>
