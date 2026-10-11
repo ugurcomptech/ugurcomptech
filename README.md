@@ -1,5 +1,5 @@
-<h1 align="center">Uğur Can Şahin</h1>
-<p align="center"><strong>Sistem ve Altyapı Yöneticisi</strong></p>
+<h1 align="center">Uğur Can </h1>
+<p align="center"><strong>Jr.Sistem ve Altyapı Yöneticisi</strong></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Rol-Sistem_Y%C3%B6neticisi-0F172A?style=flat-square&logo=linux&logoColor=white" alt="Rol">
@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
-  Üretim ortamlarında kesintisiz, ölçeklenebilir ve güvenli sistem mimarileri tasarlayan; yüksek erişilebilirlik (HA), sanallaştırma ve otomasyon süreçleri üzerine uzmanlaşmış bir Sistem Yöneticisiyim.
+Sistem yönetimi, ağ altyapıları ve otomasyon süreçleri üzerine kendimi geliştiren; Windows ve Linux ortamlarında pratik yaparak öğrenmeye ve pratik projeler üretmeye odaklanan bir teknoloji meraklısıyım.
 </p>
 
 ---
