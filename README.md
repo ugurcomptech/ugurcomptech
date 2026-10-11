@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba, Ben Uğur Can Şahin 👋</h1>
+<h1 align="center">Merhaba, Ben Uğur</h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ugurcomptech&style=flat-square&color=blueviolet" alt="Profil Görüntülenme"/>
   <img src="https://img.shields.io/badge/Sistem-Y%C3%B6neticisi-0F172A?style=flat-square&logo=linux&logoColor=white" alt="Rol">
