@@ -1,5 +1,5 @@
-<h1 align="center">Uğur Can </h1>
-<p align="center"><strong>Jr.Sistem ve Altyapı Yöneticisi</strong></p>
+<h1 align="center">Uğur Can Şahin</h1>
+<p align="center"><strong>Sistem ve Altyapı Yöneticisi</strong></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Rol-Sistem_Y%C3%B6neticisi-0F172A?style=flat-square&logo=linux&logoColor=white" alt="Rol">
@@ -29,11 +29,19 @@
 
 ## Öne Çıkan Projeler
 
-- **[HA-Web-Architecture](https://github.com/ugurcomptech/HA-Web-Architecture):** Yüksek erişilebilirlik ve yük dengeleme odaklı modern web sunucu mimarisi yapılandırmaları.
-- **[Mail-Cluster-Architecture](https://github.com/ugurcomptech/Mail-Cluster-Architecture):** Üretim ortamları için ölçeklenebilir, güvenli ve yedekli e-posta sunucu kümeleme altyapısı.
-- **[CockroachMultiZone](https://github.com/ugurcomptech/CockroachMultiZone):** Çoklu bölge (multi-zone) dağıtık veritabanı kurguları ve dayanıklılık senaryoları.
-- **[Haproxy-Abuseipdb-Blocklist](https://github.com/ugurcomptech/Haproxy-Abuseipdb-Blocklist):** HAProxy üzerinde AbuseIPDB entegrasyonu ile zararlı IP adreslerinin otomatik engellenmesi.
-- **[Haproxy-Ip2location-Turkey-Filter](https://github.com/ugurcomptech/Haproxy-Ip2location-Turkey-Filter):** IP2Location verileri kullanılarak HAProxy katmanında coğrafi tabanlı trafik filtreleme (Türkiye odaklı).
+<div align="center">
+  <p>
+    <a href="https://github.com/ugurcomptech/HA-Web-Architecture"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ugurcomptech&repo=HA-Web-Architecture&theme=tokyonight&hide_border=true" alt="HA-Web-Architecture" /></a>
+    <a href="https://github.com/ugurcomptech/Mail-Cluster-Architecture"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ugurcomptech&repo=Mail-Cluster-Architecture&theme=tokyonight&hide_border=true" alt="Mail-Cluster-Architecture" /></a>
+  </p>
+  <p>
+    <a href="https://github.com/ugurcomptech/CockroachMultiZone"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ugurcomptech&repo=CockroachMultiZone&theme=tokyonight&hide_border=true" alt="CockroachMultiZone" /></a>
+    <a href="https://github.com/ugurcomptech/Haproxy-Abuseipdb-Blocklist"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ugurcomptech&repo=Haproxy-Abuseipdb-Blocklist&theme=tokyonight&hide_border=true" alt="Haproxy-Abuseipdb-Blocklist" /></a>
+  </p>
+  <p>
+    <a href="https://github.com/ugurcomptech/Haproxy-Ip2location-Turkey-Filter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ugurcomptech&repo=Haproxy-Ip2location-Turkey-Filter&theme=tokyonight&hide_border=true" alt="Haproxy-Ip2location-Turkey-Filter" /></a>
+  </p>
+</div>
 
 ---
 
