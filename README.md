@@ -14,16 +14,16 @@ Sistem yönetimi, ağ altyapıları ve otomasyon süreçleri üzerine kendimi ge
 
 ---
 
-## Çekirdek Altyapı ve Mimari
+## Sistem ve Altyapı Yetkinlikleri
 
-| Alan | Teknolojiler ve Altyapı Yığını |
+| Alan | Kullanılan Teknolojiler ve Sistemler |
 | :--- | :--- |
-| **Yüksek Erişilebilirlik ve Cluster** | Web Cluster (Yük Dengeleme / Nginx / HAProxy), Veritabanı Cluster (MySQL Replication / Master-Slave), Mail Cluster Mimarileri |
+| **Yüksek Erişilebilirlik ve Kümeleme** | Web Kümeleme (Yük Dengeleme / Nginx / HAProxy), Veritabanı Kümeleme (MySQL Replication / Master-Slave), Mail Küme Mimarileri |
 | **İşletim Sistemleri** | Windows Server, Linux (Ubuntu, Debian, RHEL / CentOS) |
 | **Sanallaştırma ve Konteyner** | VMware ESXi, Microsoft Hyper-V, Docker, Proxmox, VirtualBox |
-| **Otomasyon ve Betik** | PowerShell, Bash, Python, Ansible |
-| **Temel Servisler ve Web** | Active Directory, DNS, DHCP, IIS, Nginx, Apache, Postfix, Let's Encrypt, Plesk |
-| **DevOps ve Ağ** | Git, Cloudflare Tunnels, CI/CD Süreçleri, VDS/VPS Yönetimi |
+| **Otomasyon ve Betik Dilleri** | PowerShell, Bash, Python, Ansible |
+| **Sunucu Servisleri ve Web** | Active Directory, DNS, DHCP, IIS, Nginx, Apache, Postfix, Let's Encrypt, Plesk |
+| **Ağ ve Sistem Yönetimi** | Git, Cloudflare Tunnels, CI/CD Süreçleri, VDS/VPS Yönetimi |
 
 ---
 
