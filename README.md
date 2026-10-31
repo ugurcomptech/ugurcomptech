@@ -8,9 +8,6 @@
 
 <br>
 
-<p align="center">
-Sistem yönetimi, ağ altyapıları ve otomasyon süreçleri üzerine kendimi geliştiren; Windows ve Linux ortamlarında pratik yaparak öğrenmeye ve pratik projeler üretmeye odaklanan bir teknoloji meraklısıyım.
-</p>
 
 ---
 
