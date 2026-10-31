@@ -41,35 +41,37 @@
 <div align="center">
   <p>
     <a href="https://github.com/ugurcomptech/HA-Web-Architecture">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ugurcomptech&repo=HA-Web-Architecture&theme=tokyonight&hide_border=true" alt="HA-Web-Architecture" />
+      <img src="https://img.shields.io/badge/📌_HA--Web--Architecture-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="HA-Web-Architecture" />
     </a>
     <a href="https://github.com/ugurcomptech/Mail-Cluster-Architecture">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ugurcomptech&repo=Mail-Cluster-Architecture&theme=tokyonight&hide_border=true" alt="Mail-Cluster-Architecture" />
+      <img src="https://img.shields.io/badge/📌_Mail--Cluster--Architecture-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Mail-Cluster-Architecture" />
     </a>
   </p>
   <p>
     <a href="https://github.com/ugurcomptech/CockroachMultiZone">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ugurcomptech&repo=CockroachMultiZone&theme=tokyonight&hide_border=true" alt="CockroachMultiZone" />
+      <img src="https://img.shields.io/badge/📌_CockroachMultiZone-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="CockroachMultiZone" />
     </a>
     <a href="https://github.com/ugurcomptech/Haproxy-Abuseipdb-Blocklist">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ugurcomptech&repo=Haproxy-Abuseipdb-Blocklist&theme=tokyonight&hide_border=true" alt="Haproxy-Abuseipdb-Blocklist" />
+      <img src="https://img.shields.io/badge/📌_Haproxy--Abuseipdb--Blocklist-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Haproxy-Abuseipdb-Blocklist" />
     </a>
   </p>
   <p>
     <a href="https://github.com/ugurcomptech/Haproxy-Ip2location-Turkey-Filter">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ugurcomptech&repo=Haproxy-Ip2location-Turkey-Filter&theme=tokyonight&hide_border=true" alt="Haproxy-Ip2location-Turkey-Filter" />
+      <img src="https://img.shields.io/badge/📌_Haproxy--Ip2location--Turkey--Filter-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Haproxy-Ip2location-Turkey-Filter" />
     </a>
   </p>
 </div>
 
 ---
 
-## 📊 GitHub Metrikleri
+## 📊 GitHub İstatistikleri
 
 <div align="center">
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=ugurcomptech&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub İstatistikleri" width="48%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ugurcomptech&layout=compact&theme=tokyonight&hide_border=true" alt="En Çok Kullanılan Diller" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ugurcomptech&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub İstatistikleri" />
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ugurcomptech&layout=compact&theme=tokyonight&hide_border=true" alt="En Çok Kullanılan Diller" />
   </p>
 </div>
 
