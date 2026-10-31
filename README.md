@@ -39,36 +39,27 @@
 ## 🚀 Öne Çıkan Projeler
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%">
-        <a href="https://github.com/ugurcomptech/HA-Web-Architecture">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ugurcomptech&repo=HA-Web-Architecture&theme=tokyonight&hide_border=true" width="100%" alt="HA-Web-Architecture" />
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://github.com/ugurcomptech/Mail-Cluster-Architecture">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ugurcomptech&repo=Mail-Cluster-Architecture&theme=tokyonight&hide_border=true" width="100%" alt="Mail-Cluster-Architecture" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <a href="https://github.com/ugurcomptech/CockroachMultiZone">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ugurcomptech&repo=CockroachMultiZone&theme=tokyonight&hide_border=true" width="100%" alt="CockroachMultiZone" />
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://github.com/ugurcomptech/Haproxy-Abuseipdb-Blocklist">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ugurcomptech&repo=Haproxy-Abuseipdb-Blocklist&theme=tokyonight&hide_border=true" width="100%" alt="Haproxy-Abuseipdb-Blocklist" />
-        </a>
-      </td>
-    </tr>
-  </table>
-  <br>
-  <a href="https://github.com/ugurcomptech/Haproxy-Ip2location-Turkey-Filter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ugurcomptech&repo=Haproxy-Ip2location-Turkey-Filter&theme=tokyonight&hide_border=true" width="49%" alt="Haproxy-Ip2location-Turkey-Filter" />
-  </a>
+  <p>
+    <a href="https://github.com/ugurcomptech/HA-Web-Architecture">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ugurcomptech&repo=HA-Web-Architecture&theme=tokyonight&hide_border=true" alt="HA-Web-Architecture" />
+    </a>
+    <a href="https://github.com/ugurcomptech/Mail-Cluster-Architecture">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ugurcomptech&repo=Mail-Cluster-Architecture&theme=tokyonight&hide_border=true" alt="Mail-Cluster-Architecture" />
+    </a>
+  </p>
+  <p>
+    <a href="https://github.com/ugurcomptech/CockroachMultiZone">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ugurcomptech&repo=CockroachMultiZone&theme=tokyonight&hide_border=true" alt="CockroachMultiZone" />
+    </a>
+    <a href="https://github.com/ugurcomptech/Haproxy-Abuseipdb-Blocklist">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ugurcomptech&repo=Haproxy-Abuseipdb-Blocklist&theme=tokyonight&hide_border=true" alt="Haproxy-Abuseipdb-Blocklist" />
+    </a>
+  </p>
+  <p>
+    <a href="https://github.com/ugurcomptech/Haproxy-Ip2location-Turkey-Filter">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ugurcomptech&repo=Haproxy-Ip2location-Turkey-Filter&theme=tokyonight&hide_border=true" alt="Haproxy-Ip2location-Turkey-Filter" />
+    </a>
+  </p>
 </div>
 
 ---
@@ -76,8 +67,10 @@
 ## 📊 GitHub Metrikleri
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ugurcomptech&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub İstatistikleri" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ugurcomptech&layout=compact&theme=tokyonight&hide_border=true" alt="En Çok Kullanılan Diller" width="48%" />
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=ugurcomptech&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub İstatistikleri" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ugurcomptech&layout=compact&theme=tokyonight&hide_border=true" alt="En Çok Kullanılan Diller" width="48%" />
+  </p>
 </div>
 
 ---
